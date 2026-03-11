@@ -1,4 +1,5 @@
 ||flipkart.com^
+||flipkart.in^
 ||amazon.in^
 ||amazon.com^
 ||myntra.com^
